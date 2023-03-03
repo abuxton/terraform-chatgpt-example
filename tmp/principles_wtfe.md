@@ -1,5 +1,6 @@
-example_result = <<EOT
-The Principles of What the Fuck (WTF) engineering is a set of the guidelines which strive to reduce the amount of time wasted by developers when dealing with complex problems or troubleshooting non-intuitive technologies. They emphasize the importance of being prepared, not giving up too quickly, and being creative in trying to find a solution. The principles include:
+# Principles of What the Fuck (WTF) engineering
+
+A set of the guidelines which strive to reduce the amount of time wasted by developers when dealing with complex problems or troubleshooting non-intuitive technologies. They emphasize the importance of being prepared, not giving up too quickly, and being creative in trying to find a solution. The principles include:
 
 1. WTF First: Approach every problem as if you have no idea what the hell is going on.
 
