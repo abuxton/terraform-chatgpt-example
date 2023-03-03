@@ -15,4 +15,3 @@ A set of the guidelines which strive to reduce the amount of time wasted by deve
 6. Consolidate: Think through all of the solutions you have tried and bring them together into one concise and well-rounded answer.
 
 7. Document your Understanding: Document your process to ensure that you learn from your experience and can refer to it or share with someone else.
-EOT

@@ -1,5 +1,6 @@
-example_result = <<EOT
-The Tao of What the Fuck Engineering is the practice of embracing mistakes, errors, and confusion as a means of developing creative solutions to challenging and complex problems. The core concepts of the Tao include:
+# Tao of What the Fuck (WTF) Engineering
+
+The practice of embracing mistakes, errors, and confusion as a means of developing creative solutions to challenging and complex problems. The core concepts of the Tao include:
 
 1. Embrace failure: Failure is an integral part of the engineering process. Acknowledge when things don’t work and use that as an opportunity to learn something new.
 
@@ -10,4 +11,3 @@ The Tao of What the Fuck Engineering is the practice of embracing mistakes, erro
 4. Experiment: Use what you’ve learned to try out different approaches and do not be afraid to fail.
 
 5. Take time to reflect: Using the time between coding sprints to reflect on what you’ve learned and think through alternatives is critical to finding innovative solutions. Taking a step back allows you to better evaluate the efficiency of your code and find a different approach.
-EOT
