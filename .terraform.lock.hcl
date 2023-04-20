@@ -5,6 +5,7 @@ provider "registry.terraform.io/develeap/chatgpt" {
   version     = "0.0.1"
   constraints = "0.0.1"
   hashes = [
+    "h1:1GJqkNRiauLPqteow/dKMKXxSoNx6YWfcN2dHqVTt4A=",
     "h1:hKsX8goGZ7+3E2PUhOOCi5GtaAwzpiIbjc+TC2ySNWg=",
     "zh:0eac6522a4387fd4ecf9e7d12e274be4afe2fdea423d16cbbda9164fdd4dbe3e",
     "zh:1b1462fc177a4f1163c977c24412cf2db020da37d83e1cba9ab6cef41dfba094",
